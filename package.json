@@ -1,0 +1,104 @@
+{
+	"license": "MIT",
+	"version": "1.0.0",
+	"main": "./lib/main.js",
+	"name": "bookmarks-bar",
+	"description": "Bookmarks Bar for Atom IDE. Collect folders, project paths and files.",
+	"repository": {
+		"type": "git",
+		"url": "git+https://github.com/ZetaRet/bookmarks-bar.git"
+	},
+	"configSchema": {
+		"bookmarks": {
+			"title": "Bookmarks visibility",
+			"type": "string",
+			"enum": [
+				"yes",
+				"no"
+			],
+			"default": "yes",
+			"description": "Show bookmarks bar as top panel"
+		},
+		"textColor": {
+			"title": "Text color",
+			"type": "string",
+			"enum": [
+				"default",
+				"#000000",
+				"#111111",
+				"#222222",
+				"#333333",
+				"#444444",
+				"#555555",
+				"#666666",
+				"#777777",
+				"#888888",
+				"#999999",
+				"#aaaaaa",
+				"#bbbbbb",
+				"#cccccc",
+				"#dddddd",
+				"#eeeeee",
+				"#ffffff"
+			],
+			"default": "default",
+			"description": "css color of top panel"
+		},
+		"fontSize": {
+			"title": "Font size",
+			"type": "string",
+			"enum": [
+				"default",
+				"10px",
+				"11px",
+				"12px",
+				"13px",
+				"14px",
+				"15px",
+				"16px",
+				"17px",
+				"18px"
+			],
+			"default": "default",
+			"description": "css font size of top panel"
+		},
+		"priority": {
+			"title": "Top panel priority",
+			"type": "string",
+			"enum": [
+				"default",
+				"0",
+				"10",
+				"20",
+				"30",
+				"40",
+				"50",
+				"60",
+				"70",
+				"80",
+				"90",
+				"100",
+				"110",
+				"130",
+				"150",
+				"170",
+				"190",
+				"200",
+				"300",
+				"400",
+				"500"
+			],
+			"default": "0",
+			"description": "priority of top panel in workspace"
+		},
+		"__jsondata": {
+			"title": "Bookmarks json data",
+			"type": "string",
+			"default": "",
+			"description": "json data representing your bookmarks-bar"
+		}
+	},
+	"engines": {
+		"atom": ">= 1.33.0"
+	}
+}
