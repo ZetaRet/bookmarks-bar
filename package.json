@@ -96,6 +96,16 @@
 			"type": "string",
 			"default": "",
 			"description": "json data representing your bookmarks-bar"
+		},
+		"reverseFolderPaths": {
+			"title": "Reverse Folder Paths",
+			"type": "string",
+			"enum": [
+				"yes",
+				"no"
+			],
+			"default": "no",
+			"description": "Paths in folder appear reversed"
 		}
 	},
 	"engines": {
