@@ -1,6 +1,6 @@
 {
 	"license": "MIT",
-	"version": "1.0.0",
+	"version": "1.0.1",
 	"main": "./lib/main.js",
 	"name": "bookmarks-bar",
 	"description": "Bookmarks Bar for Atom IDE. Collect folders, project paths and files.",
