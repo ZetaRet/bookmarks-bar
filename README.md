@@ -1,5 +1,5 @@
 ## Bookmarks Bar for Atom IDE
-[![Bookmarks Bar for Atom IDE](https://protoss.zetaret.com/images/bookmarks-bar-example.png)](https://atom.io/packages/bookmarks-bar)
+[![Bookmarks Bar for Atom IDE](https://raw.githubusercontent.com/ZetaRet/atom.io-packages/master/images/bookmarks-bar-example.png)](https://atom.io/packages/bookmarks-bar)
 - live settings  
 - default icon font used for star, folders, files, and modal buttons  
 - click Bookmark to open Modal and view current editor info before starring it, select or create new folder, describe path existence in current locations of the bar, 'star' and 'close' buttons  
@@ -12,13 +12,13 @@
 - JSON output of your personal bookmarks, copy or modify externally  
 
 # Star Modal
-[![Star Modal in Bookmarks Bar Atom IDE](https://protoss.zetaret.com/images/bookmarks-bar-star-modal-2.png)](https://atom.io/packages/bookmarks-bar)
+[![Star Modal in Bookmarks Bar Atom IDE](https://raw.githubusercontent.com/ZetaRet/atom.io-packages/master/images/bookmarks-bar-star-modal-2.png)](https://atom.io/packages/bookmarks-bar)
 
 # File Modal
-[![File Modal in Bookmarks Bar Atom IDE](https://protoss.zetaret.com/images/bookmarks-bar-file-modal-2.png)](https://atom.io/packages/bookmarks-bar)
+[![File Modal in Bookmarks Bar Atom IDE](https://raw.githubusercontent.com/ZetaRet/atom.io-packages/master/images/bookmarks-bar-file-modal-2.png)](https://atom.io/packages/bookmarks-bar)
 
 # Folder Modal
-[![Folder Modal in Bookmarks Bar Atom IDE](https://protoss.zetaret.com/images/bookmarks-bar-folder-modal-2.png)](https://atom.io/packages/bookmarks-bar)
+[![Folder Modal in Bookmarks Bar Atom IDE](https://raw.githubusercontent.com/ZetaRet/atom.io-packages/master/images/bookmarks-bar-folder-modal-2.png)](https://atom.io/packages/bookmarks-bar)
 
 # Settings
-[![Settings in Bookmarks Bar for Atom IDE](https://protoss.zetaret.com/images/bookmarks-bar-settings.png)](https://atom.io/packages/bookmarks-bar)
+[![Settings in Bookmarks Bar for Atom IDE](https://raw.githubusercontent.com/ZetaRet/atom.io-packages/master/images/bookmarks-bar-settings.png)](https://atom.io/packages/bookmarks-bar)
