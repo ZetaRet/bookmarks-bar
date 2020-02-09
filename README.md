@@ -13,10 +13,10 @@
 - colorize folders from modal  
 
 # Star Modal
-[![Star Modal in Bookmarks Bar Atom IDE](https://raw.githubusercontent.com/ZetaRet/atom.io-packages/master/images/bookmarks-bar-star-modal-2.png)](https://atom.io/packages/bookmarks-bar)
+[![Star Modal in Bookmarks Bar Atom IDE](https://raw.githubusercontent.com/ZetaRet/atom.io-packages/master/images/bookmarks-bar-star-modal-3.png)](https://atom.io/packages/bookmarks-bar)
 
 # File Modal
-[![File Modal in Bookmarks Bar Atom IDE](https://raw.githubusercontent.com/ZetaRet/atom.io-packages/master/images/bookmarks-bar-file-modal-2.png)](https://atom.io/packages/bookmarks-bar)
+[![File Modal in Bookmarks Bar Atom IDE](https://raw.githubusercontent.com/ZetaRet/atom.io-packages/master/images/bookmarks-bar-file-modal-3.png)](https://atom.io/packages/bookmarks-bar)
 
 # Folder Modal
-[![Folder Modal in Bookmarks Bar Atom IDE](https://raw.githubusercontent.com/ZetaRet/atom.io-packages/master/images/bookmarks-bar-folder-modal-2.png)](https://atom.io/packages/bookmarks-bar)
+[![Folder Modal in Bookmarks Bar Atom IDE](https://raw.githubusercontent.com/ZetaRet/atom.io-packages/master/images/bookmarks-bar-folder-modal-3.png)](https://atom.io/packages/bookmarks-bar)
