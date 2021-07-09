@@ -1,6 +1,6 @@
 {
 	"license": "MIT",
-	"version": "2.1.2",
+	"version": "2.2.0",
 	"main": "./lib/main.js",
 	"name": "bookmarks-bar",
 	"description": "Bookmarks Bar for Atom IDE. Collect folders, project paths and files.",
@@ -189,6 +189,17 @@
 			],
 			"default": "#ffffff",
 			"description": "Background color of folder, file, bookmark buttons on mouse over."
+		},
+		"filesort": {
+			"title": "Sorting of files",
+			"type": "string",
+			"enum": [
+				"none",
+				"asc",
+				"desc"
+			],
+			"default": "none",
+			"description": "Files appear sorted in folder modal."
 		}
 	},
 	"engines": {
